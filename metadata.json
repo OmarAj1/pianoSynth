@@ -1,0 +1,5 @@
+{
+  "name": "React Virtual Piano",
+  "description": "A high-fidelity polyphonic virtual piano featuring a Web Audio API synthesizer, precise SVG-based key rendering, and QWERTY keyboard mapping for desktop playability.",
+  "requestFramePermissions": []
+}
